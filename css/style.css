@@ -1,0 +1,39 @@
+body{
+    width: 100%;
+    height: 1000px;
+    font-family: 'Finlandica', sans-serif;
+    margin: 0;
+}
+.lets-help{
+    width: 100%;
+    height: 80%;
+    color: rgb(245, 245, 243);
+    font-weight: 800;
+    font-size: 18px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-image: url(../image/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+}
+.container{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    text-align: center;
+    padding-top: 20%;
+}
+.link{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 10px 10px;
+    color: azure;
+}
+span{
+    color: rgb(234, 166, 118);
+}
+p{
+    font-size: 16px;
+}
