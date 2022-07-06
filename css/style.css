@@ -13,7 +13,6 @@ body{
     display: flex;
     background-repeat: no-repeat;
     background-image: url(../image/donation13.jpg);
-    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
   
@@ -39,8 +38,7 @@ p{
 }
 .box{
     width: 200px;
-    height: 100px;
-    box-shadow: 4px 4px 4px;
+    height: 100px;0px -5px 10px 0px rgba(0, 0, 0, 0.5)
     padding: 5px 5px;
     float: left;
     text-align: center;
@@ -50,7 +48,45 @@ p{
     margin-left: 80px;
     color: gray;
     background-color: #FBFBFB;
+    margin-right: 10px;
+}
 .title{
     background-color: #FFEEEE;
     border: 5px solid red;
+}
+hr{
+    width: 50%;
+    height: 10px;
+    color: gray;
+}
+.text-color{
+    color: gray;
+}
+span{
+    color: gray;
+}
+.education{
+    width: 100%;
+    display: flex;
+}
+.shadow1{
+    box-shadow: 10px 10px 10px #55def0;
+    padding: 10px 10px;
+    border: 1px solid red;
+    background-color: #EDF5F6;
+    margin: 5%;
+}
+.shadow2{
+    box-shadow: 10px 10px 10px #0e9aac;
+    padding: 10px 10px;
+    border: 1px solid red;
+    margin: 5%;
+    background-color: #FFEEEE;
+}
+.shadow3{
+    box-shadow: 10px 10px 10px #0e7684;
+    padding: 10px 10px;
+    border: 1px solid red;
+    margin: 5%;
+    background-color: #FFF4D6;
 }
