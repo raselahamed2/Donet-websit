@@ -90,3 +90,12 @@ span{
     margin: 5%;
     background-color: #FFF4D6;
 }
+.lives{
+    width: 100%;
+    padding-left: 5%;
+}
+#flood{
+    width: 80%;
+    margin-left: 500px;
+    padding-right: 8%;
+}
